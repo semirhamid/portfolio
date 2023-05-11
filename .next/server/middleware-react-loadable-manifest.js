@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"..\\components\\Footer\\Footer.js -> ../Profiles/Profiles":{id:5471,files:[]},"..\\components\\Hero\\Hero.js -> lottie-web":{id:1248,files:["static/chunks/ea88be26.79ce1c3feb943cea.js"]}};
