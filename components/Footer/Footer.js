@@ -52,7 +52,7 @@ const Footer = () => {
               <span role="img" aria-label="emoji" className="animate-pulse">
                 ❤️
               </span>{" "}
-              by <span className="text-gray.dark.5">Shubh Porwal</span>
+              by <span className="text-gray.dark.5">Semir Hamid</span>
             </p>
           </div>
         </div>
@@ -65,9 +65,9 @@ const Footer = () => {
         height={180}
       />
       <p className="absolute left-[15%] -bottom-[7.5rem] font-extralight text-sm xl:text-base w-[40%]">
-        *Credits to the owners for the codepen and vectors/icons used.
+        Call on: +251911528092
         <br />
-        These were picked from various sources over the internet.
+        
       </p>
 
       <style jsx global>{`
