@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST={"..\\components\\Footer\\Footer.js -> ../Profiles/Profiles":{id:5471,files:[]},"..\\components\\Hero\\Hero.js -> lottie-web":{id:1248,files:["static/chunks/ea88be26.79ce1c3feb943cea.js"]}};
+self.__REACT_LOADABLE_MANIFEST={"..\\components\\Footer\\Footer.js -> ../Profiles/Profiles":{"id":"..\\components\\Footer\\Footer.js -> ../Profiles/Profiles","files":[]},"..\\components\\Hero\\Hero.js -> lottie-web":{"id":"..\\components\\Hero\\Hero.js -> lottie-web","files":["static/chunks/node_modules_lottie-web_build_player_lottie_js.js"]}}
